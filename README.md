@@ -2,7 +2,7 @@
 
 This is a simple Python script that analyzes a cell image.
 
-It turns the image into grayscale, segments the cells, counts how many there are, and calculates their average size. It also shows a # Cell Analysis Project
+It turns the image into grayscale, segments the cells, counts how many there are, and calculates their average size. It also shows a Cell Analysis Project
 
 This is a simple Python script that analyzes a cell image.
 
